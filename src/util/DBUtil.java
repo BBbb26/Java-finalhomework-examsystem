@@ -11,7 +11,7 @@ import java.sql.SQLException;
 public class DBUtil {
     private static final String URL = "jdbc:mysql://localhost:3306/exam_system?allowPublicKeyRetrieval=true&useSSL=false&serverTimezone=UTC";
     private static final String USER = "root";
-    private static final String PASSWORD = "yyanbjw2006";
+    private static final String PASSWORD = "your_password"; // TODO: 修改为你的 MySQL 密码
 
     static {
         try {
