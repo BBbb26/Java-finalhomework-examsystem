@@ -1,0 +1,17 @@
+编号,题库,分类,题型,题干,选项A,选项B,选项C,选项D,答案,解析,难度,知识点,分值
+JAVA-001,Java程序设计,Java基础,单选题,Java 中哪个关键字用于定义类？,class,interface,public,static,A,Java 使用 class 定义类。,简单,Java基础,5
+JAVA-002,Java程序设计,Java基础,多选题,下面哪些是 Java 基本数据类型？,int,String,boolean,double,ACD,String 是引用类型。,中等,Java基础,5
+JAVA-003,Java程序设计,JVM基础,判断题,Java 支持跨平台运行。,正确,错误,,,正确,Java 字节码可在 JVM 上运行。,简单,JVM,5
+JAVA-004,Java程序设计,面向对象,单选题,Java 中所有类默认直接或间接继承哪个类？,Object,String,Class,System,A,Object 是 Java 类层次结构的根类。,简单,面向对象,5
+JAVA-005,Java程序设计,集合框架,多选题,下面哪些属于 Java 集合框架接口？,List,Map,Scanner,Set,ABD,List、Map、Set 都是集合框架中的常用接口。,中等,集合,5
+JAVA-006,Java程序设计,JDBC,单选题,JDBC 中用于执行 SQL 的常用对象是？,Statement,Scanner,Thread,JFrame,A,Statement 和 PreparedStatement 可用于执行 SQL。,中等,JDBC,5
+JAVA-007,Java程序设计,Swing,判断题,JFrame 是 Swing 中常用的顶层窗口类。,正确,错误,,,正确,JFrame 可作为桌面程序主窗口。,简单,Swing,5
+JAVA-008,Java程序设计,异常处理,单选题,Java 中用于捕获异常的关键字是？,try,catch,throw,throws,B,catch 块用于捕获并处理异常。,简单,异常处理,5
+DB-001,数据库原理,SQL基础,单选题,SQL 中用于查询数据的关键字是？,SELECT,INSERT,UPDATE,DELETE,A,SELECT 用于查询数据。,简单,SQL,5
+DB-002,数据库原理,SQL基础,多选题,下面哪些属于 SQL 数据操作语句？,INSERT,UPDATE,DELETE,CREATE,ABC,INSERT、UPDATE、DELETE 属于常见 DML 操作。,中等,SQL,5
+DB-003,数据库原理,关系模型,判断题,主键可以唯一标识表中的一条记录。,正确,错误,,,正确,主键用于保证记录唯一性。,简单,主键,5
+DB-004,数据库原理,SQL基础,单选题,SQL 中用于按条件筛选记录的子句是？,WHERE,ORDER BY,GROUP BY,LIMIT,A,WHERE 用于筛选满足条件的记录。,简单,SQL,5
+DB-005,数据库原理,事务,多选题,事务的 ACID 特性包括哪些？,原子性,一致性,隔离性,持久性,ABCD,ACID 分别对应原子性、一致性、隔离性、持久性。,困难,事务,5
+DS-001,数据结构,线性表,单选题,栈的特点是？,先进先出,后进先出,随机访问,顺序查找,B,栈遵循后进先出原则。,简单,栈,5
+DS-002,数据结构,树,判断题,二叉树中每个结点最多有两个孩子。,正确,错误,,,正确,二叉树每个结点最多有左、右两个孩子。,简单,树,5
+DS-003,数据结构,排序,多选题,下面哪些是常见排序算法？,冒泡排序,快速排序,二分查找,插入排序,ABD,二分查找是查找算法，不是排序算法。,中等,排序,5

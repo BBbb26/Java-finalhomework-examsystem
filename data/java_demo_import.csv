@@ -1,0 +1,4 @@
+﻿编号,题库,分类,题型,题干,选项A,选项B,选项C,选项D,答案,解析,难度,知识点,分值
+JAVA-DEMO-001,Java程序设计,Java基础,单选题,Java 程序的入口方法是哪个？,public static void main(String[] args),public void start(),public static int main(),private static void run(),A,Java 程序通常从 public static void main(String[] args) 方法开始执行。,简单,Java基础,5
+JAVA-DEMO-002,Java程序设计,集合框架,多选题,下面哪些属于 Java 集合框架中的接口？,List,ArrayList,Set,Map,ACD,List、Set、Map 是接口，ArrayList 是 List 接口的实现类。,中等,集合,5
+JAVA-DEMO-003,Java程序设计,面向对象,判断题,Java 中一个类可以同时继承多个普通类。,正确,错误,,,错误,Java 不支持多继承普通类，但可以实现多个接口。,简单,继承,5
